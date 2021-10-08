@@ -1,2 +1,2 @@
 # MIP
-A simple minimal implementation of Internet Protocol (IP)
+A minimal implementation of the Internet Protocol (IP)
